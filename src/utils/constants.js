@@ -1,0 +1,6 @@
+export const BACKGROUND_COLOR_DEAFUALT = '#231E39'
+export const BACKGROUND_COLOR_MATCH_RGX = '#ffff1a'
+export const URL_FETCH_USER = 'https://randomuser.me/api/'
+export const URL_SEED = 'abc'
+export const URL_RESULTS = '9'
+export const URL_INC = 'gender,name,email,picture'
